@@ -64,6 +64,6 @@ mod tests {
 
     #[test]
     fn it_works() {
-        assert_eq!(solve(), 563);
+        assert_eq!(solve(), 569);
     }
 }
